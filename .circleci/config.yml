@@ -320,7 +320,7 @@ jobs:
 
           no_output_timeout: 1m
           command: |
-            sleep 30s
+            sleep 3s
             ./e4
     parallelism: 1
   Aaaa:
@@ -543,7 +543,7 @@ jobs:
 
           no_output_timeout: 1m
           command: |
-            sleep 330s
+            sleep 3s
             ./e4
 
 
